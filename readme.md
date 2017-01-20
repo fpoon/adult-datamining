@@ -1,0 +1,1 @@
+# projekt z eksploracji danych
